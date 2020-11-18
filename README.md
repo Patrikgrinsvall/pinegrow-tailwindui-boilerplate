@@ -1,2 +1,3 @@
 # pinegrow-tailwindui-boilerplate
-Boilerplate for pinegrow and tailwindui
+Boilerplate for pinegrow, tailwind and tailwindui
+
